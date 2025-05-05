@@ -1,12 +1,12 @@
-# SOA-ComparisionProject
+# SOA-ComparisonProject
 ## SOA_CompareAllModels.mlx
-This file provides a comparsion of the Connelly, Khorrami, and Taleb SOA models. It acts as an overview and introduction to the key concepts in this project.
+This file provides a comparison of the Connelly, Khorrami, and Taleb SOA models. It acts as an overview and introduction to the key concepts in this project.
 
 ## MATLAB Live Scripts for Standard SOA and QD-SOA Analysis
 
 These two MATLAB Live Scripts model and compare the performance of a Standard SOA versus a quantum-dot SOA (QD-SOA), and explore parameter-driven gain enhancement in QD-SOAs.
 
-### 1. QDComparision.mlx  
+### 1. QDComparison.mlx  
 - **Purpose**: Benchmarks a conventional bulk SOA against a QD-based SOA.  
 - **Key Features**:  
   - Defines an input power sweep (–20 dBm to +20 dBm).  
